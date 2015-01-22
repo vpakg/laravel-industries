@@ -1,4 +1,4 @@
-The following corrections have been made in this database version, compared with the printed publication:
+***The following corrections have been made in this database version, compared with the printed publication:***
 
 1. Class 3830: In the first exclusion, the word "metal" has been deleted from the text ("Manufacture of new final products from (whether or not self-produced) secondary metal raw materials [...]" ). This was an oversight.
 [23.01.2009]
