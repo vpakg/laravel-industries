@@ -21,6 +21,8 @@ class CreateIsicTitlesTable extends Migration {
 			$table->string('explanatory_note_inclusion', 500)->nullable();
 			$table->string('explanatory_note_exclusion', 500)->nullable();
 			$table->primary(['id','sort_order']);
+			$table->timestamps();
+
 		});
 	}
 
