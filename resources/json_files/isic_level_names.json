@@ -1,0 +1,22 @@
+[
+	{
+		'id' : 1,
+		'code_level' : 1,
+		'level_name' : "Section"
+	},
+	{
+		'id' : 2,
+		'code_level' : 2,
+		'level_name' : "Division"
+	},
+	{
+		'id' : 3,
+		'code_level' : 3,
+		'level_name' : "Group"
+	},
+	{
+		'id' : 4,
+		'code_level' : 4,
+		'level_name' : "Class"
+	}
+]
