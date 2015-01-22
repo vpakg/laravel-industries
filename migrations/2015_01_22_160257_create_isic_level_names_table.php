@@ -18,6 +18,7 @@ class CreateIsicLevelNamesTable extends Migration {
 			$table->integer('code_level');
 			$table->string('level_name', 45)->nullable();
 			$table->primary(['id','code_level']);
+			$table->timestamps();
 		});
 	}
 
