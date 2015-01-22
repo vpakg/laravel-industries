@@ -1,5 +1,4 @@
 # laravel-industries
-Laravel Industries is a bundle that creates migrations and seeds it with industries and economic sectors following the International Standard Industrial Classification.
 
 Laravel Industries is a bundle that creates migrations and seeds it with industries and economic sectors following the [International Standard Industrial Classification (ISIC rev 4)](http://unstats.un.org/unsd/cr/registry/isic-4.asp).
 
