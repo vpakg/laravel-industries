@@ -1,5 +1,5 @@
 # laravel-industries
-![http://img.shields.io/badge/version-Alpha-lightgrey.svg?style=flat-square](http://img.shields.io/badge/version-Alpha-lightgrey.svg?style=flat-square) 
+[![Alpha:v0.1](http://img.shields.io/badge/version-Alpha-lightgrey.svg?style=flat-square)](https://github.com/vpakg/laravel-industries/releases/tag/alpha_v0.1) 
 [![Laravel:4](http://img.shields.io/badge/Framework-Laravel%204.2.1-orange.svg?style=flat-square)](http://laravel.com/docs/4.2)
 [![LICENSE:MIT](http://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/vpakg/laravel-industries/blob/master/LICENSE)
 
